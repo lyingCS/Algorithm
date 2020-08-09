@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/programme/Algorithm/Chapitre1/word_puzzle/cmake-build-debug/CMakeFiles/word_puzzle.dir/embed.manifest"

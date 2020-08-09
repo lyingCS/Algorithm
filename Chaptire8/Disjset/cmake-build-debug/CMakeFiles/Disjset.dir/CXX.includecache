@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programme/Algorithm/Chaptire8/Disjset/DisjSets.h
+iostream
+-
+vector
+-
+
+E:/programme/Algorithm/Chaptire8/Disjset/main.cpp
+DisjSets.h
+E:/programme/Algorithm/Chaptire8/Disjset/DisjSets.h
+string
+-
+queue
+-
+algorithm
+-
+list
+-
+unordered_set
+-
+

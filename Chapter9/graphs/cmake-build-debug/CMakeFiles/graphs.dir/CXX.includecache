@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programme/Algorithm/Chapter9/graphs/graphs.cpp
+graphs.h
+E:/programme/Algorithm/Chapter9/graphs/graphs.h
+
+E:/programme/Algorithm/Chapter9/graphs/graphs.h
+iostream
+-
+stack
+-
+queue
+-
+utility
+-
+vector
+-
+unordered_map
+-
+

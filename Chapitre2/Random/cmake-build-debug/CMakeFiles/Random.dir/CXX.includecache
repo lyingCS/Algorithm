@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programme/Algorithm/Chapitre2/Random/main.cpp
+ctime
+-
+random
+-
+sys/timeb.h
+-
+Windows.h
+-
+iostream
+-
+cstdio
+-
+

@@ -1,0 +1,4 @@
+"E:\Program Files\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/Program Files/mingw64/bin/mingw32-make.exe" "-DCMAKE_C_COMPILER=E:/Program Files/mingw64/bin/gcc.exe" "-DCMAKE_CXX_COMPILER=E:/Program Files/mingw64/bin/g++.exe" -G "CodeBlocks - MinGW Makefiles" E:\programme\Algorithm\chapter12\SplayTree
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/programme/Algorithm/chapter12/SplayTree/cmake-build-debug

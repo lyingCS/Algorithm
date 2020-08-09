@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programme/Algorithm/chapter12/SplayTree/SplayTree.cpp
+SplayTree.h
+E:/programme/Algorithm/chapter12/SplayTree/SplayTree.h
+
+E:/programme/Algorithm/chapter12/SplayTree/SplayTree.h
+iostream
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programme/Algorithm/Chapitre3/Vector/Vector.h
+algorithm
+-
+
+E:/programme/Algorithm/Chapitre3/Vector/main.cpp
+iostream
+-
+Vector.h
+E:/programme/Algorithm/Chapitre3/Vector/Vector.h
+

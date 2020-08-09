@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programme/Algorithm/Chapitre3/list/list.h
+
+E:/programme/Algorithm/Chapitre3/list/main.cpp
+iostream
+-
+list.h
+E:/programme/Algorithm/Chapitre3/list/list.h
+
